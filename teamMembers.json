@@ -1,7 +1,7 @@
 [
-    { "name": "Karukkuvel Raja", "paid": -1, "isBirthday": false },
+    { "name": "Karukkuvel Raja", "paid": -1, "isBirthday": true },
     { "name": "Vignesh B", "paid": 1, "isBirthday": false },
-    { "name": "Dinesh", "paid": 1, "isBirthday": true },
+    { "name": "Dinesh", "paid": 1, "isBirthday": false },
     { "name": "Rakesh", "paid": 1, "isBirthday": false },
     { "name": "Sudhakar", "paid": 1, "isBirthday": false },
     { "name": "Vignesh Sridhar", "paid": 1, "isBirthday": false },
