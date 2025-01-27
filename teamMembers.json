@@ -2,25 +2,25 @@
     { "name": "Karukkuvel Raja", "paid": 1, "isBirthday": false },
     { "name": "Vignesh B", "paid": -1, "isBirthday": true },
     { "name": "Dinesh", "paid": 1, "isBirthday": false },
-    { "name": "Rakesh", "paid": 1, "isBirthday": false },
-    { "name": "Sudhakar", "paid": 1, "isBirthday": false },
-    { "name": "Vignesh Sridhar", "paid": 1, "isBirthday": false },
-    { "name": "Venkatesh S", "paid": 1, "isBirthday": false },
-    { "name": "Abinaya", "paid": 1, "isBirthday": false },
+    { "name": "Rakesh", "paid": 0, "isBirthday": false },
+    { "name": "Sudhakar", "paid": 0, "isBirthday": false },
+    { "name": "Vignesh Sridhar", "paid": 0, "isBirthday": false },
+    { "name": "Venkatesh S", "paid": 0, "isBirthday": false },
+    { "name": "Abinaya", "paid": 0, "isBirthday": false },
 
-    { "name": "Venkatesh Dhesini", "paid": 1, "isBirthday": false },
-    { "name": "Krishnamoorthy", "paid": 1, "isBirthday": false },
+    { "name": "Venkatesh Dhesini", "paid": 0, "isBirthday": false },
+    { "name": "Krishnamoorthy", "paid": 0, "isBirthday": false },
     { "name": "Ramprabhu", "paid": 1, "isBirthday": false },
     { "name": "Sathish", "paid": 1, "isBirthday": false },
-    { "name": "Surya Ramalingam", "paid": 1, "isBirthday": false },
-    { "name": "Sandhiya", "paid": 1, "isBirthday": false },
+    { "name": "Surya Ramalingam", "paid": 0, "isBirthday": false },
+    { "name": "Sandhiya", "paid": 0, "isBirthday": false },
 
 
-    { "name": "Vignesh Krishnamoorthy", "paid": 1, "isBirthday": false },
+    { "name": "Vignesh Krishnamoorthy", "paid": 0, "isBirthday": false },
     { "name": "Sriraamm", "paid": 1, "isBirthday": false },
     { "name": "Ganesh", "paid": 1, "isBirthday": false },
 
-    { "name": "valli", "paid": 1, "isBirthday": false },
+    { "name": "valli", "paid": 0, "isBirthday": false },
     { "name": "Surya Prakash", "paid": 1, "isBirthday": false }
 
 ]
