@@ -67,7 +67,7 @@
                 <tr>
                     <th>Name</th>
                     <th>Status</th>
-                    <th>Action</th>
+                    <th style="display:none">Action</th>
                 </tr>
             </thead>
             <tbody id="teamTable">
@@ -132,8 +132,8 @@
 
                 row.innerHTML = `
                     <td>${member.isBirthday ? '<span class="birthday-icon">🎉</span>' : ''}${member.name}</td>
-                    <td>${member.isBirthday ? 'Birthday' : member.paid ? 'Paid' : 'Unpaid'}</td>
-                    <td>
+                    <td>${member.isBirthday ? 'Birthday' : `<button class="btn btn-${member.paid ? 'success' : 'warning'}">${member.paid ? 'Paid' : 'Not Paid'}</button>`}</td>
+                    <td style="display:none">
                         ${member.isBirthday ? '<span>Not Applicable</span>' : `<button class="btn btn-${member.paid ? 'success' : 'warning'}" onclick="togglePayment(${index})">Mark as ${member.paid ? 'Unpaid' : 'Paid'}</button>`}
                     </td>
                 `;
