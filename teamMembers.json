@@ -16,9 +16,9 @@
     { "name": "Sandhiya", "paid": 1, "isBirthday": false },
 
 
-    { "name": "Vignesh Krishnamoorthy", "paid": 0, "isBirthday": false },
-    { "name": "Sriraamm", "paid": 0, "isBirthday": false },
-    { "name": "Ganesh", "paid": 0, "isBirthday": false },
+    { "name": "Vignesh Krishnamoorthy", "paid": 1, "isBirthday": false },
+    { "name": "Sriraamm", "paid": 1, "isBirthday": false },
+    { "name": "Ganesh", "paid": 1, "isBirthday": false },
 
     { "name": "valli", "paid": 0, "isBirthday": false },
     { "name": "Surya Prakash", "paid": -1, "isBirthday": true }
