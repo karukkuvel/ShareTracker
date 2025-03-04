@@ -3,7 +3,7 @@
     { "name": "Vignesh B", "paid": 0, "isBirthday": false },
     { "name": "Dinesh", "paid": 1, "isBirthday": false },
     { "name": "Rakesh", "paid": 1, "isBirthday": false },
-    { "name": "Sudhakar", "paid": 0, "isBirthday": false },
+    { "name": "Sudhakar", "paid": 1, "isBirthday": false },
     { "name": "Vignesh Sridhar", "paid": 1, "isBirthday": false },
     { "name": "Venkatesh S", "paid": 1, "isBirthday": false },
     { "name": "Abinaya", "paid": 1, "isBirthday": false },
