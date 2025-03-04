@@ -13,7 +13,7 @@
     { "name": "Ramprabhu", "paid": 0, "isBirthday": false },
     { "name": "Sathish", "paid": 1, "isBirthday": false },
     { "name": "Surya Ramalingam", "paid": 1, "isBirthday": false },
-    { "name": "Sandhiya", "paid": 0, "isBirthday": false },
+    { "name": "Sandhiya", "paid": 1, "isBirthday": false },
 
 
     { "name": "Vignesh Krishnamoorthy", "paid": 1, "isBirthday": false },
